@@ -34,7 +34,7 @@ pytest tests/
 
 ## Demonstração do Sistema
 
-Demonstração dos Publishers e Subscribers: [Link do vídeo](https://youtu.be/mvigfNvgJ_4)
+Demonstração dos Publishers e Subscribers: [Link do vídeo](https://youtu.be/mvigfNvgJ_4) <br/>
 Demonstração dos testes: [Link do vídeo](https://youtu.be/P0oVfgMh7zs)
 
 ## Estrutura do Projeto
